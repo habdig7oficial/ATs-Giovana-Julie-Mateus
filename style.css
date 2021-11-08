@@ -1,0 +1,21 @@
+
+
+.linha{
+    display: flex;
+    flex-direction: row;
+
+    margin: 3rem;
+    padding: 1rem;
+
+    align-items: center;
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+
+    margin: 3rem;
+    padding: 1rem;
+
+    align-items: center;
+}
